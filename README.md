@@ -1,6 +1,7 @@
 # face-liveness-kyc-desktop-working
 
-# py -3.12 -m venv .venv
-# source .venv/Scripts/activate
-# pip install opencv-python face-recognition pillow
-# pip install git+https://github.com/ageitgey/face_recognition_models
+Steps
+Create virtual python env: py -3.12 -m venv .venv
+Activate it: source .venv/Scripts/activate
+Installing dependencies: pip install opencv-python face-recognition pillow
+Installing Model(s): pip install git+https://github.com/ageitgey/face_recognition_models
